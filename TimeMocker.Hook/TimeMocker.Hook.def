@@ -1,0 +1,7 @@
+LIBRARY TimeMocker.Hook
+
+EXPORTS
+    ; No public exports required — Detours helper process detection uses
+    ; an internal mechanism.  We export a sentinel for the injector to
+    ; verify the DLL loaded correctly.
+    TimeMockerHookVersion @1

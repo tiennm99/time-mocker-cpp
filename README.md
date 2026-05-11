@@ -236,3 +236,8 @@ even if the process restarts with the same PID (very rare on Windows).
 ## License
 
 Apache 2.0 (same as the original C# project).
+
+## Related
+
+- [time-mocker](https://github.com/tiennm99/time-mocker) — Original C# / EasyHook implementation.
+
